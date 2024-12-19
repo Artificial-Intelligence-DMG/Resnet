@@ -28,15 +28,14 @@ This section is meant to provide a setp-by-step explanation of ResNet. If you ar
 
 ### Prerequisites
 
-WORK IN PROGRESS (coming soon)
+See the file [here](./nb_dir/Prerequisites.ipynb)
 
 ### Assumption and Target
 
-WORK IN PROGRESS (coming soon)
-
+See the file [here](./nb_dir/Assumptions-and-Target.ipynb)
 ### Theory
 
-WORK IN PROGRESS (coming soon)
+See the file [here](./nb_dir/Thery.ipynb)
 
 ### Code
 
