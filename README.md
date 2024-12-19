@@ -17,8 +17,7 @@ n this repository, you will find an explanation of how the *Degradation Problem*
 **[Roadmap](##Roadmap):**
 
 1. **[Prerequisites](###Prerequisites)** : A basic understanding of how neural networks work and why their deep counterparts were introduced.
-2. [**Assumptions and Topic's Target**](###Assumption-and-Target): Addressing the *degradation problem* observed in previous deep learning models by following the author's hypothesis: "*that it*
-   *is easier to optimize the residual mapping than to optimize the original, unreferenced mapping*". 
+2. [**Assumptions and Topic's Target**](###Assumption-and-Target): Addressing the *degradation problem* observed in deep learning models through the introduction of the *residual mapping*.
 3. **[Theory](###Theory)**: A description of the *deep residual learning framework*, its working principle, and the results obtained in the ResNet paper.
 4. **[Code](###Code)** : The Python implementation (and later, C++) of the ResNet model (ResNet-34) from scratch, including a custom Dataset and Dataloader.
 5. **[Test](###Test)**:  A final test to demonstrate that the implementation works as expected and that the model can train correctly.
